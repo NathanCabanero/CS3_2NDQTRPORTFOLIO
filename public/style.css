@@ -63,7 +63,7 @@
   padding-top: 30px;
   text-align: left;
   box-shadow: 0 0 10px 5px rgba(0, 0, 0, 0.3);
-  font-family: "myFont";
+  font-family: "myFont" ;
   font-size: 14px;
 
   .training-img {
